@@ -1,0 +1,28 @@
+{
+    "name": "renzhifan/laravel5-ucenter",
+    "description": "Larave5 ucenter",
+    "keywords": ["laravel5", "ucenter"],
+    "homepage": "https://github.com/renzhifan/laravel5-ucenter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "renzhifan",
+            "email": "zhifan6797@163.com",
+			"homepage": "https://github.com/renzhifan",
+			"role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Renzhifan\\Laravel5Ucenter\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
